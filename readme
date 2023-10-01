@@ -1,0 +1,17 @@
+#Install defs
+
+```
+npm install
+```
+
+#Run the server
+
+```
+node index.js
+```
+
+#Testing
+
+```
+npx mocha ./tests/index.test.js
+```
